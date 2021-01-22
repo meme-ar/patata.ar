@@ -1,4 +1,4 @@
-## Welcome to Patata
+# Welcome to Patata
 ### THE BEST RUST SERVER RUNNING ON A POTATO
 ### IP: 45.235.98.47
 ### PORT: 28215
