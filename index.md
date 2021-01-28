@@ -13,8 +13,6 @@
 - NO DRUGS
 
 ## WIPE
-
-BR Main schedule
-- Map wipe weekly
+- Map wipe 15 días
 - Wipe at 14:00 BRT on wipe days (except on forced wipes, check #forced-wipe)
 - Blueprint's for servers wipe every month.
