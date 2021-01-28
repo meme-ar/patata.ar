@@ -13,12 +13,12 @@ Buscar "patata.ar" en Community, o ingresar este comando en la consola:
 - NO LLORAR
 
 ## Wipes
-- Wipe de mapa QUINCENAL, cada 2 jueves.
-- Wipe de blueprints cuando sea wipe forzado de todos los servers (mensual)
+- Wipe de mapa: quincenal, cada 2 jueves.
+- Wipe de blueprints: cuando sea wipe forzado de todos los servers (mensual)
 
 Calendario:
 
 |      | ultimo | proximo |
-| :-:  | :-:    |  :-:   |
-|Mapa  |  21/01 |  04/02 |
-|BPs   |  21/01 |  04/02 |
+| :-:  | :-:    |  :-:    |
+|Mapa  |  21/01 |  04/02  |
+|BPs   |  21/01 |  04/02  |
