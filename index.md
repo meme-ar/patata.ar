@@ -1,18 +1,24 @@
-# Welcome to Patata
-### THE BEST RUST SERVER RUNNING ON A POTATO
-### IP: 45.235.98.47
-### PORT: 28215
+# patata.ar - el mejor server de rust corriendo en una patata
 
-## client.connect 45.235.98.47:28215
+## Conexion
+Buscar "patata.ar" en Community, o ingresar este comando en la consola:
+    client.connect 45.235.98.47:28215
 
-## RULES
-
-- YES GRIEFING
-- NO WHINING
+## Reglas
+- VANILLA
+- VALE GRIEFING
+- NO HAY LIMITE DE TEAM
 - NO CHEATS
 - NO DRUGS
+- NO LLORAR
 
-## WIPE
-- Map wipe 15 días
-- Wipe at 14:00 BRT on wipe days (except on forced wipes, check #forced-wipe)
-- Blueprint's for servers wipe every month.
+## Wipes
+- Wipe de mapa: quincenal, cada 2 jueves.
+- Wipe de blueprints: cuando sea wipe forzado de todos los servers (mensual)
+
+Calendario:
+
+|      | ultimo | proximo |
+| :-:  | :-:    |  :-:    |
+|Mapa  |  21/01 |  04/02  |
+|BPs   |  21/01 |  04/02  |
