@@ -11,3 +11,10 @@
 - NO WHINING
 - NO CHEATS
 - NO DRUGS
+
+## WIPE
+
+BR Main schedule
+- Map wipe weekly
+- Wipe at 14:00 BRT on wipe days (except on forced wipes, check #forced-wipe)
+- Blueprint's for servers wipe every month.
