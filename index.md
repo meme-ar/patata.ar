@@ -19,5 +19,5 @@ Buscar "patata.ar" en Community, o ingresar este comando en la consola:
 
 |      | ultimo | proximo | frecuencia                        | 
 | :-:  | :-:    |  :-:    | --------------------------------- |
-|Mapa  |  21/01 |  04/02  | quincenal, cada 2 jueves          |
+|Mapa  |  21/01 |  04/02  | quincenal, cada 2 jueves, EN REALIDAD PUEDE CAMBIAR          |
 |BPs   |  21/01 |  04/02  | cuando sea wipe forzado (mensual) |
