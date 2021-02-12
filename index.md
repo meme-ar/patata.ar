@@ -14,6 +14,7 @@ Buscar "patata.ar" en Community, o ingresar este comando en la consola:
 - NO CHEATS
 - NO DRUGS
 - NO LLORAR
+- NO TWITCH LINKS
 
 ## Wipes
 
